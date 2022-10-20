@@ -1,9 +1,9 @@
 ![developer notes](https://user-images.githubusercontent.com/21963717/196857254-6888f425-b26e-4ae0-bff9-6232ed7b1848.png)
 
 ## Contributing
-To contribute new comments please use the [Chrome extension](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb). Manually-created discussions will not appear in the documentation.
+To contribute new comments please use the [Chrome extension](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb).
  
-Please contribute notes on usage, relevant examples, references, and gotchas.  
+Please only contribute notes on usage, relevant examples, references, and gotchas.  
 
 ## Supported sites
 - [Unity Manual and Scripting Reference](https://docs.unity3d.com/)
