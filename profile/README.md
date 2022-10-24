@@ -17,8 +17,9 @@ Please only contribute notes on usage, relevant examples, references, and gotcha
 ## Tools used
 The extension uses [Giscus](https://github.com/giscus/giscus) to link comments to the discussions on this repo.
 
-## Issues
-Issues with the extension, feedback, and requests should be given [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
+## Support
+Issues with the extension, feedback, and requests, should be given [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
+<br><br>
 
-## Disclaimer
-This is an unofficial extension and isn't affiliated with or endorsed by Unity Technologies, Epic Games, or Audiokinetic.
+> **Note**  
+> This is an unofficial extension and isn't affiliated with or endorsed by Unity Technologies, Epic Games, or Audiokinetic.
