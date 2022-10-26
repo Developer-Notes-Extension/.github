@@ -3,9 +3,8 @@
 ## Contributing
 To contribute new comments please use the extension for your browser:
 
-- [Chrome extension](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb)
-- Firefox extension
-- Edge extension (via Chrome extension)
+- [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
 
 Browser not listed? Create a discussion [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
  
