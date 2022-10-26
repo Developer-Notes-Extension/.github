@@ -10,6 +10,7 @@ Browser not listed? Create a discussion [here](https://github.com/orgs/Developer
 
 > **Warning**  
 > Please only contribute notes on usage, relevant examples, references, and gotchas.  
+> Seeking help or reporting bugs is not the intent of this extension and your comments will be removed.
 
 ## Supported sites
 ### Unity
