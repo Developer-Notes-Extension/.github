@@ -7,6 +7,7 @@ To contribute new comments please use the extension for your browser:
 
 - [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
+- Safari (Under consideration)
 
 Browser not supported? Create a discussion [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
 
