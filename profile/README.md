@@ -2,6 +2,8 @@
 
 Shared user-contributed notes to game dev documentation, curated for accuracy and relevance, with hundreds of notes added by dozens of contributors, covering usage, relevant examples, references, and gotchas.
 
+Adds a comment block to the bottom of matched documentation sites.
+
 ## Contributing
 To contribute new comments please use the extension for your browser:
 
