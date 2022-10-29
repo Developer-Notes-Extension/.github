@@ -2,8 +2,6 @@
 
 Shared user-contributed notes to game dev documentation, curated for accuracy and relevance, with hundreds of notes added by dozens of contributors, covering usage, relevant examples, references, and gotchas.
 
-Adds a comment block to the bottom of matched documentation sites.
-
 ## Contributing
 To contribute new comments please use the extension for your browser:
 
@@ -28,6 +26,10 @@ Browser not supported? Create a discussion [here](https://github.com/orgs/Develo
 - [Unreal Python API Documentation](https://docs.unrealengine.com/PythonAPI/)
 ### Wwise
 - [Wwise Documentation](https://www.audiokinetic.com/library/)
+
+A GitHub-style comment block is appended to the bottom of matched documentation sites.
+
+![comment block](https://user-images.githubusercontent.com/21963717/198780459-a7f7af76-0581-48e0-b442-5d968cd11aa5.png)
 
 ## Tools used
 The extension uses [Giscus](https://github.com/giscus/giscus) to link comments to the discussions on this repo.
