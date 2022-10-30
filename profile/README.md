@@ -1,6 +1,6 @@
 ![developer notes](https://user-images.githubusercontent.com/21963717/196857254-6888f425-b26e-4ae0-bff9-6232ed7b1848.png)
 
-Shared user-contributed notes to game dev documentation, curated for accuracy and relevance, with hundreds of notes added by dozens of contributors, covering usage, relevant examples, references, and gotchas.
+Adds shared user-contributed notes to game dev documentation. Notes are curated for accuracy and relevance, with hundreds of notes added by dozens of contributors, covering usage, relevant examples, references, and gotchas.
 
 ## Contributing
 To contribute new comments please use the extension for your browser:
