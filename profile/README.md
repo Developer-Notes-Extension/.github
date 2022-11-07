@@ -2,7 +2,7 @@
 
 Adds shared user-contributed notes to game dev documentation. Notes are curated for accuracy and relevance, with hundreds of notes added by dozens of contributors, covering usage, relevant examples, references, and gotchas.
 
-## Contributing
+## Viewing and contributing notes
 To contribute new comments please use the extension for your browser:
 
 - [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
