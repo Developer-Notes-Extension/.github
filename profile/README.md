@@ -3,17 +3,16 @@
 Adds shared user-contributed notes to game dev documentation. Notes are curated for accuracy and relevance, with hundreds of notes added by dozens of contributors, covering usage, relevant examples, references, and gotchas.
 
 ## Viewing and contributing notes
-To contribute new comments please use the extension for your browser:
-
-- [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
-- Safari (Under consideration)
-
-Browser not supported? Create a discussion [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
-
-> **Warning**  
-> Please only contribute notes on usage, relevant examples, references, and gotchas.  
-> Seeking help or reporting bugs is not the intent of this extension and your comments will be removed.
+1. Install the extension for your browser:
+    - [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
+    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
+    - Safari (Under consideration)
+    Browser not supported? Create a discussion [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
+  
+2. Visit a [supported site](#supported-sites), add an appropriate note at the bottom of the page.
+   > **Warning**  
+   > Please only contribute notes on usage, relevant examples, references, and gotchas.  
+   > Seeking help or reporting bugs is not the intent of this extension and your comments will be removed.
 
 ## Supported sites
 ### Unity
