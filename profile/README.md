@@ -40,3 +40,5 @@ Issues with the extension, feedback, and requests, should be given [here](https:
 
 > **Note**  
 > This is an unofficial extension and isn't affiliated with or endorsed by Unity Technologies, Epic Games, or Audiokinetic.
+
+[Privacy Policy](https://github.com/Developer-Notes-Extension/.github/blob/main/PRIVACY%20POLICY.md) • [Changelog](https://github.com/Developer-Notes-Extension/.github/blob/main/CHANGELOG.md)
