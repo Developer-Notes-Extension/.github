@@ -7,8 +7,8 @@ Notes made by the extension are processed via Giscus, and associated data falls 
 
 ## Browser extension
 ### User data
-The browser extensions does not store user data.  
-GitHub Discussions and Giscus list the only usecases data is stored by the functionality provided by the extension.
+GitHub Discussions and Giscus list the only usecases data is stored when using the extension.  
+The functionality managed by the Developer Notes Extension does not handle user data, and no information is stored.
 
 ### Marketing
 We do not send you any marketing information.
