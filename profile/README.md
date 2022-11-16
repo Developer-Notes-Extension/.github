@@ -6,7 +6,7 @@ Adds shared user-contributed notes to game dev documentation. Notes are curated 
 1. Install the extension for your browser:
     - [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
     - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
-    - Safari (Under consideration)  
+    - [Safari](https://apps.apple.com/us/app/game-developer-notes/id6444423421)
     
     Browser not supported? Create a discussion [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
   
