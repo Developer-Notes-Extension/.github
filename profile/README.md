@@ -32,7 +32,7 @@ A GitHub-style comment block is appended to the bottom of matched documentation 
 ![comment block](https://user-images.githubusercontent.com/21963717/198780459-a7f7af76-0581-48e0-b442-5d968cd11aa5.png)
 
 ## Tools used
-The extension uses [Giscus](https://github.com/giscus/giscus) to link comments to the discussions on this repo.
+The extension uses [Giscus](https://github.com/giscus/giscus) to link comments to the discussions on the org's repos.
 
 ## Support
 Issues with the extension, feedback, and requests, should be given [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
