@@ -11,9 +11,13 @@ Adds shared user-contributed notes to game dev documentation. Notes are curated 
     Browser not supported? Create a discussion [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
   
 2. Visit a [supported site](#supported-sites), add an appropriate note at the bottom of the page.
-   > **Warning**  
-   > Please only contribute notes on usage, relevant examples, references, and gotchas.  
-   > Seeking help or reporting bugs is not the intent of this extension and your comments will be removed.
+> [!IMPORTANT] 
+> Please only contribute notes on usage, relevant examples, references, and gotchas.  
+> Seeking help or reporting bugs is not the intent of this extension and your comments will be removed.  
+> AI-generated comments are not allowed and will be removed.
+
+> [!NOTE]
+> Comments are curated, and may be edited to add links to documentation, fix formatting and spelling errors, or to remove confusing wording.
 
 ## Supported sites
 ### Unity
